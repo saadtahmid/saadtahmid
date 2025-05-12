@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there 👋 I'm Saad Tahmid
 
-<!--
-**saadtahmid/saadtahmid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 About Me
+- 🎓 Computer Science student passionate about full-stack development, AI, and cybersecurity.
+- 🌱 Currently learning advanced database systems, PL/SQL, and diving into ethical hacking and CTF challenges.
+- 💡 I enjoy solving real-world problems with code and turning ideas into web apps.
+- 🛠️ Tech I love: JavaScript, Python, Java, SQL, React, Node.js, Git, Linux.
 
-Here are some ideas to get you started:
+### 🔭 Current Projects
+- 🚀 Building a dynamic blood bank management system with advanced SQL and PL/SQL features.
+- 🧠 Experimenting with machine learning models and AI APIs.
+- 🛡️ Exploring cybersecurity tools and platforms like TryHackMe, Hack The Box, and CTFtime.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🤝 Let's Connect
+- 📫 Reach me at: [saadtahmid1890@gmail.com](mailto:saadtahmid1890@gmail.com) 
+- 🌐 Visit my portfolio: [saadtahmid.github.io](https://saadtahmid.github.io)
