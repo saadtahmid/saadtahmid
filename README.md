@@ -13,4 +13,4 @@
 
 ### 🤝 Let's Connect
 - 📫 Reach me at: [saadtahmid1890@gmail.com](mailto:saadtahmid1890@gmail.com) 
-- 🌐 Visit my portfolio: [saadtahmid]([https://saadtahmid.github.io/codespace-project/](https://marvel-march-92582769.figma.site/))
+- 🌐 Visit my portfolio: [https://marvel-march-92582769.figma.site/]
