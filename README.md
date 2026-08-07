@@ -6,7 +6,14 @@ I work across **machine learning, natural language processing, and the security 
 
 ![Profile views](https://komarev.com/ghpvc/?username=saadtahmid&style=flat-square&color=blueviolet)
 
-[📧 Email](mailto:saadtahmid1890@gmail.com) · [🌐 Portfolio](https://saadtahmid.github.io) · [📄 Google Scholar](https://scholar.google.com/citations?user=-POoPx0AAAAJ&hl=en) · [💼 LinkedIn](https://www.linkedin.com/in/saad-t-048071276/) · [🐙 GitHub](https://github.com/saadtahmid) · [🏆 Kaggle](https://www.kaggle.com/saadtahmid) · [🐦 X](https://x.com/saadtahmid90) · [🎖️ Credly](https://www.credly.com/users/saad-tahmid/badges/credly)
+[![Email](https://img.shields.io/badge/Email-FFFFFF?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:saadtahmid1890@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FFFFFF?style=flat-square&logo=githubpages&logoColor=24292F)](https://saadtahmid.github.io)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-FFFFFF?style=flat-square&logo=googlescholar&logoColor=4285F4)](https://scholar.google.com/citations?user=-POoPx0AAAAJ&hl=en)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFFFFF?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/saad-t-048071276/)
+[![GitHub](https://img.shields.io/badge/GitHub-FFFFFF?style=flat-square&logo=github&logoColor=181717)](https://github.com/saadtahmid)
+[![Kaggle](https://img.shields.io/badge/Kaggle-FFFFFF?style=flat-square&logo=kaggle&logoColor=20BEFF)](https://www.kaggle.com/saadtahmid)
+[![X](https://img.shields.io/badge/X-FFFFFF?style=flat-square&logo=x&logoColor=000000)](https://x.com/saadtahmid90)
+[![Credly](https://img.shields.io/badge/Credly-FFFFFF?style=flat-square&logo=credly&logoColor=FF6B00)](https://www.credly.com/users/saad-tahmid/badges/credly)
 
 ---
 
