@@ -111,6 +111,10 @@ I work across **machine learning, natural language processing, and the security 
 
 ## 📊 GitHub Stats
 
+![GitHub stats](https://github-stats-extended.vercel.app/api?username=saadtahmid&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=github_dark)
+
+![Top languages](https://github-stats-extended.vercel.app/api/top-langs/?username=saadtahmid&layout=compact&hide_border=true&langs_count=8&theme=github_dark)
+
 ![GitHub streak](https://streak-stats.demolab.com/?user=saadtahmid&hide_border=true&theme=dark)
 
 ![Contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=saadtahmid&theme=github-dark)
