@@ -12,9 +12,9 @@ I work across **machine learning, natural language processing, and the security 
 
 ## 📊 GitHub Stats
 
-<img src="https://streak-stats.demolab.com/?user=saadtahmid&hide_border=true&theme=dark" alt="GitHub streak" width="100%"/>
+![GitHub streak](https://streak-stats.demolab.com/?user=saadtahmid&hide_border=true&theme=dark)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saadtahmid&theme=github-dark" alt="Contribution graph" width="100%"/>
+![Contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=saadtahmid&theme=github-dark)
 
 ---
 
