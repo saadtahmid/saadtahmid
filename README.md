@@ -4,7 +4,29 @@
 
 I work across **machine learning, natural language processing, and the security of learned systems**. Much of my work concerns models that have to hold up outside the conditions they were built for — different data, a different language, or an adversary. Alongside research I spend a good deal of time on applied problems under short deadlines, and on the systems and engineering work that makes experiments reproducible.
 
+![Profile views](https://komarev.com/ghpvc/?username=saadtahmid&style=flat-square&color=blueviolet)
+
 [📧 Email](mailto:saadtahmid1890@gmail.com) · [🌐 Portfolio](https://saadtahmid.github.io) · [📄 Google Scholar](https://scholar.google.com/citations?user=-POoPx0AAAAJ&hl=en) · [💼 LinkedIn](https://www.linkedin.com/in/saad-t-048071276/) · [🐙 GitHub](https://github.com/saadtahmid) · [🏆 Kaggle](https://www.kaggle.com/saadtahmid) · [🐦 X](https://x.com/saadtahmid90) · [🎖️ Credly](https://www.credly.com/users/saad-tahmid/badges/credly)
+
+---
+
+## 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=saadtahmid&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=default#gh-light-mode-only" alt="GitHub stats (light)" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=saadtahmid&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=github_dark#gh-dark-mode-only" alt="GitHub stats (dark)" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadtahmid&layout=compact&hide_border=true&langs_count=8&theme=default#gh-light-mode-only" alt="Top languages (light)" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadtahmid&layout=compact&hide_border=true&langs_count=8&theme=github_dark#gh-dark-mode-only" alt="Top languages (dark)" width="48%"/>
+
+<img src="https://streak-stats.demolab.com/?user=saadtahmid&hide_border=true&theme=default#gh-light-mode-only" alt="GitHub streak (light)"/>
+<img src="https://streak-stats.demolab.com/?user=saadtahmid&hide_border=true&theme=dark#gh-dark-mode-only" alt="GitHub streak (dark)"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saadtahmid&theme=github-light#gh-light-mode-only" alt="Contribution graph (light)" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saadtahmid&theme=github-dark#gh-dark-mode-only" alt="Contribution graph (dark)" width="100%"/>
+
+## 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=saadtahmid&theme=flat&margin-w=15#gh-light-mode-only" alt="GitHub trophies (light)"/>
+<img src="https://github-profile-trophy.vercel.app/?username=saadtahmid&theme=onedark&margin-w=15#gh-dark-mode-only" alt="GitHub trophies (dark)"/>
 
 ---
 
@@ -57,15 +79,43 @@ I work across **machine learning, natural language processing, and the security 
 - **Higher Secondary Certificate (Science)** — Cumilla Cadet College (2020–2022), GPA 5.00/5.00
 - **Secondary School Certificate** — Cumilla Cadet College (2018–2020), GPA 5.00/5.00
 
-## 🛠️ Skills
+## 🛠️ Tech Stack
 
-| Area | Technologies |
-| --- | --- |
-| **Languages** | Python, C, C++, Java, JavaScript, TypeScript, SQL |
-| **Machine Learning** | PyTorch, scikit-learn, NumPy, pandas, Hugging Face, prompt engineering |
-| **Systems & Data** | PostgreSQL, MongoDB, Linux, Git, Docker, REST APIs |
-| **Web** | React, Node.js, Express, Tailwind CSS, HTML & CSS |
-| **Foundations** | Data structures, algorithms, OOP, database systems, computer security |
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Machine Learning**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+**Systems & Data**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+**Web**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ## 📜 Certifications
 
