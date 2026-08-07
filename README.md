@@ -6,14 +6,14 @@ I work across **machine learning, natural language processing, and the security 
 
 ![Profile views](https://komarev.com/ghpvc/?username=saadtahmid&style=flat-square&color=blueviolet)
 
-[![Email](https://img.shields.io/badge/Email-FFFFFF?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:saadtahmid1890@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FFFFFF?style=flat-square&logo=githubpages&logoColor=24292F)](https://saadtahmid.github.io)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-FFFFFF?style=flat-square&logo=googlescholar&logoColor=4285F4)](https://scholar.google.com/citations?user=-POoPx0AAAAJ&hl=en)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFFFFF?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/saad-t-048071276/)
-[![GitHub](https://img.shields.io/badge/GitHub-FFFFFF?style=flat-square&logo=github&logoColor=181717)](https://github.com/saadtahmid)
-[![Kaggle](https://img.shields.io/badge/Kaggle-FFFFFF?style=flat-square&logo=kaggle&logoColor=20BEFF)](https://www.kaggle.com/saadtahmid)
-[![X](https://img.shields.io/badge/X-FFFFFF?style=flat-square&logo=x&logoColor=000000)](https://x.com/saadtahmid90)
-[![Credly](https://img.shields.io/badge/Credly-FFFFFF?style=flat-square&logo=credly&logoColor=FF6B00)](https://www.credly.com/users/saad-tahmid/badges/credly)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:saadtahmid1890@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-24292F?style=flat-square&logo=githubpages&logoColor=white)](https://saadtahmid.github.io)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=-POoPx0AAAAJ&hl=en)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xOSAzYTIgMiAwIDAgMSAyIDJ2MTRhMiAyIDAgMCAxLTIgMkg1YTIgMiAwIDAgMS0yLTJWNWEyIDIgMCAwIDEgMi0yaDE0bS0uNSAxNS41di01LjNhMy4yNiAzLjI2IDAgMCAwLTMuMjYtMy4yNmMtLjg1IDAtMS44NC41Mi0yLjI4IDEuM3YtMS4xMWgtMi43OXY4LjM3aDIuNzl2LTQuOTNjMC0xLjMuNy0xLjc1 IDEuNC0xLjc1IDEgMCAxLjM1Ljc1 IDEuMzUgMS43NXY0LjkzaDIuNzlNNi44OCA4LjU2YTEuNjggMS42OCAwIDAgMCAxLjY4LTEuNjhjMC0uOTMtLjc1LTEuNjktMS42OC0xLjY5YTEuNjkgMS42OSAwIDAgMC0xLjY5IDEuNjljMCAuOTMuNzYgMS42OCAxLjY5IDEuNjhtMS4zOSA5Ljk4di04LjM3SDUuNXY4LjM3aDIuNzd6Ii8%2BPC9zdmc%2B)](https://www.linkedin.com/in/saad-t-048071276/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/saadtahmid)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/saadtahmid)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/saadtahmid90)
+[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/users/saad-tahmid/badges/credly)
 
 ---
 
