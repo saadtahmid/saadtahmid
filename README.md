@@ -12,21 +12,9 @@ I work across **machine learning, natural language processing, and the security 
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=saadtahmid&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=default#gh-light-mode-only" alt="GitHub stats (light)" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api?username=saadtahmid&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=github_dark#gh-dark-mode-only" alt="GitHub stats (dark)" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadtahmid&layout=compact&hide_border=true&langs_count=8&theme=default#gh-light-mode-only" alt="Top languages (light)" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadtahmid&layout=compact&hide_border=true&langs_count=8&theme=github_dark#gh-dark-mode-only" alt="Top languages (dark)" width="48%"/>
+<img src="https://streak-stats.demolab.com/?user=saadtahmid&hide_border=true&theme=dark" alt="GitHub streak" width="100%"/>
 
-<img src="https://streak-stats.demolab.com/?user=saadtahmid&hide_border=true&theme=default#gh-light-mode-only" alt="GitHub streak (light)"/>
-<img src="https://streak-stats.demolab.com/?user=saadtahmid&hide_border=true&theme=dark#gh-dark-mode-only" alt="GitHub streak (dark)"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saadtahmid&theme=github-light#gh-light-mode-only" alt="Contribution graph (light)" width="100%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saadtahmid&theme=github-dark#gh-dark-mode-only" alt="Contribution graph (dark)" width="100%"/>
-
-## 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=saadtahmid&theme=flat&margin-w=15#gh-light-mode-only" alt="GitHub trophies (light)"/>
-<img src="https://github-profile-trophy.vercel.app/?username=saadtahmid&theme=onedark&margin-w=15#gh-dark-mode-only" alt="GitHub trophies (dark)"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saadtahmid&theme=github-dark" alt="Contribution graph" width="100%"/>
 
 ---
 
