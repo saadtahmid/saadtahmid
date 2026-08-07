@@ -10,14 +10,6 @@ I work across **machine learning, natural language processing, and the security 
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub streak](https://streak-stats.demolab.com/?user=saadtahmid&hide_border=true&theme=dark)
-
-![Contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=saadtahmid&theme=github-dark)
-
----
-
 ## 🔬 Research Interests
 
 - **Reasoning in Language Models** — how prompting, decoding, and tool use shape what a model can reliably work out, and how far they substitute for scale.
@@ -114,6 +106,14 @@ I work across **machine learning, natural language processing, and the security 
 - **JavaScript Algorithms and Data Structures** — freeCodeCamp (2024) · [Certificate](https://www.freecodecamp.org/certification/saadtahmid/javascript-algorithms-and-data-structures)
 - **Front End Development Libraries** — freeCodeCamp (2024) · [Certificate](https://www.freecodecamp.org/certification/saadtahmid/front-end-development-libraries)
 - **Responsive Web Design** — freeCodeCamp (2024) · [Certificate](https://www.freecodecamp.org/certification/saadtahmid/responsive-web-design)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub streak](https://streak-stats.demolab.com/?user=saadtahmid&hide_border=true&theme=dark)
+
+![Contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=saadtahmid&theme=github-dark)
 
 ---
 
